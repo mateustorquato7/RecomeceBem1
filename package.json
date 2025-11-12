@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "enginess": {
+    "node": ">=18.0.0"
+    }, 
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
